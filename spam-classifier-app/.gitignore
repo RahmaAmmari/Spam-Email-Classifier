@@ -1,0 +1,22 @@
+# Model files (large files)
+backend/models/*.pkl
+
+# Dependencies
+node_modules/
+backend/__pycache__/
+*.pyc
+
+# Environment files
+.env
+.venv
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
